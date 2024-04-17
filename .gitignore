@@ -1,0 +1,6 @@
+.venv
+External Workshop/chroma_db
+External Workshop/src/__pycache__
+External Workshop/src/.env
+External Workshop/.DS_Store
+.DS_Store
